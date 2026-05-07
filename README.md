@@ -16,4 +16,4 @@ This project focuses on predicting stock prices using machine learning technique
 
 ## Contributors
 - Aditi
-- jeevitha
+- Jeevitha
